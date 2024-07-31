@@ -18,7 +18,8 @@ Please install SAM 2 on a GPU machine using:
 
 ```bash
 git clone git@github.com:facebookresearch/segment-anything-2.git
-
+```
+```bash
 cd segment-anything-2; pip install -e .
 ```
 
